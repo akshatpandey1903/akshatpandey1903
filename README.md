@@ -1,7 +1,7 @@
 # Welcome to Akshat Pandey's GitHub Profile!
 
 ## 👋 About Me
-[Hello and welcome to my GitHub! I'm Akshat Pandey, a passionate and driven software engineer-in-the-making. I thrive on solving complex problems and turning innovative ideas into reality. Currently, I'm diving deep into Electronics, Telecommunication, and Computer Engineering at Sardar Patel Institute of Technology in Mumbai. My mission? To harness the power of technology to make a tangible difference in the world.]
+Hello and welcome to my GitHub! I'm Akshat Pandey, a passionate and driven software engineer-in-the-making. I thrive on solving complex problems and turning innovative ideas into reality. Currently, I'm diving deep into Electronics, Telecommunication, and Computer Engineering at Sardar Patel Institute of Technology in Mumbai. My mission? To harness the power of technology to make a tangible difference in the world.
 
 ## 🎓 Education
 - University: [Your university name]
