@@ -11,14 +11,14 @@ Hello and welcome to my GitHub! I'm Akshat Pandey, a passionate and driven softw
 
 ## 💻 Tech Interests
 I have a keen interest in:
--Software Development: Crafting efficient and elegant code that solves real-world problems.
--Artificial Intelligence and Machine Learning: Exploring the potential of AI to transform industries and everyday life.
--Robotics and Automation: Creating intelligent systems that can perform tasks autonomously and improve human life.
+- Software Development: Crafting efficient and elegant code that solves real-world problems.
+- Artificial Intelligence and Machine Learning: Exploring the potential of AI to transform industries and everyday life.
+- Robotics and Automation: Creating intelligent systems that can perform tasks autonomously and improve human life.
 
 ## 🚀 Current Projects
 Here's a glimpse into what I'm working on:
--Hangman Game: Developing a classic Hangman game in C++, focusing on creating an engaging user experience and refining my programming skills.
--Real-Time Chat App: Building a secure and user-friendly chat application that facilitates instant communication, pushing my boundaries in software development.
+- Hangman Game: Developing a classic Hangman game in C++, focusing on creating an engaging user experience and refining my programming skills.
+- Real-Time Chat App: Building a secure and user-friendly chat application that facilitates instant communication, pushing my boundaries in software development.
 
 
 ## 🔗 Connect with Me
