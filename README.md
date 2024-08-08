@@ -4,10 +4,10 @@
 Hello and welcome to my GitHub! I'm Akshat Pandey, a passionate and driven software engineer-in-the-making. I thrive on solving complex problems and turning innovative ideas into reality. Currently, I'm diving deep into Electronics, Telecommunication, and Computer Engineering at Sardar Patel Institute of Technology in Mumbai. My mission? To harness the power of technology to make a tangible difference in the world.
 
 ## 🎓 Education
-- University: Sardar Patel Institute of Technology
+- University: Sardar Patel Institute of Technology, Mumbai, India
 - Major: Electronics & Telecommunication Engineering
 - Minor: Computer Engineering
-- Expected Graduation: 2025
+- Expected Graduation: July 2025
 
 ## 💻 Tech Interests
 I have a keen interest in:
