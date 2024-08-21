@@ -15,8 +15,9 @@ I have a keen interest in:
 - Artificial Intelligence and Machine Learning: Exploring the potential of AI to transform industries and everyday life.
 - Robotics and Automation: Creating intelligent systems that can perform tasks autonomously and improve human life.
 
-## 🚀 Current Projects
+## 🚀 Current Projects / Learning
 Here's a glimpse into what I'm working on:
+- I have started learning full stack application development from start, and am looking forward to making good progress by the end of this year (2024)
 - Hangman Game: Developing a classic Hangman game in C++, focusing on creating an engaging user experience and refining my programming skills.
 - Real-Time Chat App: Building a secure and user-friendly chat application that facilitates instant communication, pushing my boundaries in software development.
 
