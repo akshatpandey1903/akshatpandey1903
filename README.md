@@ -1,37 +1,26 @@
-# Welcome to Akshat Pandey's GitHub Profile!
+<h1 align="center">Hi 👋, I'm Akshat Pandey</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-## 👋 About Me
-Hello and welcome to my GitHub! I'm Akshat Pandey, a passionate and driven software engineer-in-the-making. I thrive on solving complex problems and turning innovative ideas into reality. Currently, I'm diving deep into Electronics, Telecommunication, and Computer Engineering at Sardar Patel Institute of Technology in Mumbai. My mission? To harness the power of technology to make a tangible difference in the world.
+- 🌱 I’m currently learning **Full stack development, Java, Java backend, and system design, while also exploring advanced JavaScript frameworks and RPA tools. I'm focused on deepening my understanding of automation technologies and broadening my skill set to stay updated with the latest trends in technology.**
 
-## 🎓 Education
-- University: Sardar Patel Institute of Technology, Mumbai, India
-- Major: Electronics & Telecommunication Engineering
-- Minor: Computer Engineering
-- Expected Graduation: July 2025
+- 👨‍💻 All of my projects are available at [Yet to create a portfolio page :( (Will build one soon)](Yet to create a portfolio page :( (Will build one soon))
 
-## 💻 Tech Interests
-I have a keen interest in:
-- Software Development: Crafting efficient and elegant code that solves real-world problems.
-- Artificial Intelligence and Machine Learning: Exploring the potential of AI to transform industries and everyday life.
-- Robotics and Automation: Creating intelligent systems that can perform tasks autonomously and improve human life.
+- 💬 Ask me about **My journey in full stack development, Java backend, or system design. I’m also happy to chat about automation, RPA tools, and the latest in software development technologies!**
 
-## 🚀 Current Projects / Learning
-Here's a glimpse into what I'm working on:
-- I have started learning full stack application development from start, and am looking forward to making good progress by the end of this year (2024)
-- Hangman Game: Developing a classic Hangman game in C++, focusing on creating an engaging user experience and refining my programming skills.
-- Real-Time Chat App: Building a secure and user-friendly chat application that facilitates instant communication, pushing my boundaries in software development.
+- 📫 How to reach me **akshatp1903@gmail.com**
 
+- 📄 Know about my experiences [https://akshat-pandey-1903-resume.tiiny.site/](https://akshat-pandey-1903-resume.tiiny.site/)
 
-## 🔗 Connect with Me
-- LinkedIn: www.linkedin.com/in/akshat-pandey-70057b316
-  
-###### Will soon create a personal website
+- ⚡ Fun fact **I have a great sense of humor and love making people laugh—whether it’s with a clever pun or a funny story, I’m always ready to lighten the mood!**
 
-## 📫 How to Reach Me
-Email: akshatp1903@gmail.com
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/akshat-pandey-70057b316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-pandey-70057b316" height="30" width="40" /></a>
+<a href="https://instagram.com/aksh.at_ig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aksh.at_ig" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/akshatpandey1903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshatpandey1903" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-🌱 This profile is under active development as I continue to work on projects and expand my skills. Check back often for updates!
-
-Thank you for visiting my profile. Let's create something amazing together!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatpandey1903&show_icons=true&theme=dark&locale=en" alt="akshatpandey1903" /></p>
