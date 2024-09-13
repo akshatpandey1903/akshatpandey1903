@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full stack development, Java, Java backend, and system design, while also exploring advanced JavaScript frameworks and RPA tools. I'm focused on deepening my understanding of automation technologies and broadening my skill set to stay updated with the latest trends in technology.**
 
-- 👨‍💻 I have yet to create a portfolio page :( (Will build one soon)
+- 👨‍💻 I have yet to create a portfolio page (Will build one soon)
 
 - 💬 Ask me about **My journey in full stack development, Java backend, or system design. I’m also happy to chat about automation, RPA tools, and the latest in software development technologies!**
 
