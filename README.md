@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://akshat-pandey-1903-resume.tiiny.site/](https://akshat-pandey-1903-resume.tiiny.site/)
 
-- ⚡ Fun fact **I have a great sense of humor and love making people laugh—whether it’s with a clever pun or a funny story, I’m always ready to lighten the mood!**
+- ⚡ Fun fact **I have a great sense of humor and love making people laugh.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
