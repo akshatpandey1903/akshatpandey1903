@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshat Pandey</h1>
+<h1 align="center">Hii 👋, I'm Akshat Pandey</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 # 💫 About Me:
