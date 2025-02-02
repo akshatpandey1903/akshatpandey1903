@@ -1,6 +1,6 @@
 <h1 align="center">Hii 👋, I'm Akshat Pandey</h1>
 
-![retrowindow](https://github.com/user-attachments/assets/9c53ae8c-e39a-4e38-83e5-03d7b53cfee3)
+![Igf23C](https://github.com/user-attachments/assets/f97cd42a-b0f5-447a-aea1-778495f91626)
 
 
 # 💫 About Me:
