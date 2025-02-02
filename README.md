@@ -1,5 +1,6 @@
 <h1 align="center">Hii 👋, I'm Akshat Pandey</h1>
-![giphy]([https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif](https://github.com/akshatpandey1903/akshatpandey1903/blob/main/giphy.gif))
+
+![giphy](https://github.com/user-attachments/assets/37901494-b85f-467c-9b70-36df2ed63c04)
 
 # 💫 About Me:
 🔭 I’m currently diving into full-stack web development, Java backend, and cloud technologies.<br>👯 I’m open to collaborating on web dev projects and DevOps functionalities.<br>🤝 I’m seeking help with expanding my knowledge of full-stack development and cloud tech.<br>🌱 I’m learning Java, system design, automation, and cloud services to stay sharp in modern software development.<br>💬 Ask me about my full-stack journey, Java backend, or the latest in cloud and automation.<br>⚡ Fun fact: I enjoy cracking jokes and keeping things light!
