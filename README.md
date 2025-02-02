@@ -1,7 +1,7 @@
 <h1 align="center">Hii 👋, I'm Akshat Pandey</h1>
 
 ![retrowindow](https://github.com/user-attachments/assets/9c53ae8c-e39a-4e38-83e5-03d7b53cfee3)
-<img src="[https://github.com/asd/privategithubrepo/images/output/video1.gif](https://github.com/user-attachments/assets/9c53ae8c-e39a-4e38-83e5-03d7b53cfee3)" width="48">
+
 
 # 💫 About Me:
 🔭 I’m currently diving into full-stack web development, Java backend, and cloud technologies.<br>👯 I’m open to collaborating on web dev projects and DevOps functionalities.<br>🤝 I’m seeking help with expanding my knowledge of full-stack development and cloud tech.<br>🌱 I’m learning Java, system design, automation, and cloud services to stay sharp in modern software development.<br>💬 Ask me about my full-stack journey, Java backend, or the latest in cloud and automation.<br>⚡ Fun fact: I enjoy cracking jokes and keeping things light!
