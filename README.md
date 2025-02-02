@@ -1,5 +1,6 @@
 <h1 align="center">Hii 👋, I'm Akshat Pandey</h1>
 <h3 align="center">A passionate developer from India</h3>
+![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGx1YmZjZDFjYjVudjY5OTlpYnJxNmQydmFyZnBjb29rMnA3ZjB6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KgLSUaOfyarOLOOwz2/giphy.gif))
 
 # 💫 About Me:
 🔭 I’m currently diving into full-stack web development, Java backend, and cloud technologies.<br>👯 I’m open to collaborating on web dev projects and DevOps functionalities.<br>🤝 I’m seeking help with expanding my knowledge of full-stack development and cloud tech.<br>🌱 I’m learning Java, system design, automation, and cloud services to stay sharp in modern software development.<br>💬 Ask me about my full-stack journey, Java backend, or the latest in cloud and automation.<br>⚡ Fun fact: I enjoy cracking jokes and keeping things light!
