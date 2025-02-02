@@ -1,6 +1,6 @@
 <h1 align="center">Hii 👋, I'm Akshat Pandey</h1>
 
-![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/b8f4ca81-c190-483e-94d8-269981511214)
+![cUVKThP](https://github.com/user-attachments/assets/f2de2786-e395-41af-b3fe-8d764280a23d)
 
 # 💫 About Me:
 🔭 I’m currently diving into full-stack web development, Java backend, and cloud technologies.<br>👯 I’m open to collaborating on web dev projects and DevOps functionalities.<br>🤝 I’m seeking help with expanding my knowledge of full-stack development and cloud tech.<br>🌱 I’m learning Java, system design, automation, and cloud services to stay sharp in modern software development.<br>💬 Ask me about my full-stack journey, Java backend, or the latest in cloud and automation.<br>⚡ Fun fact: I enjoy cracking jokes and keeping things light!
