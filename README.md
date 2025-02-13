@@ -1,4 +1,4 @@
-<h1 align="center">Hii 👋, I'm Akshat Pandey</h1>
+<h1 align="center">Akshat Pandey</h1>
 
 ![cUVKThP](https://github.com/user-attachments/assets/f2de2786-e395-41af-b3fe-8d764280a23d)
 
